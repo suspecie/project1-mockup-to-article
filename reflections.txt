@@ -1,0 +1,21 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+* Aprendi que cada tag possui uma forma correta de utilização, fazendo com que o texto fique semantico.
+Também aprendi o quanto é importânte utilizar ferramentas de validação após criar um código HTML.
+Entendi também qual a responsidade das tags que utilizei.
+Aprendi algumas tags novas como sup e del.
+
+*Achei fácil realizar os exercícios após cada explicação.
+
+*Até o momento não achei nada complexo a ponto de considerar dificil.
+
+*Utilizei a busca das minhas dúvidas utilizando o site do Mozilla e Google.
+Algumas coisas relacionadas a utilização da ferramenta também tirei dúvidas com os meus colegas de curso.
+
+Gostaria de ter algumas dicas do que posso melhorar.
