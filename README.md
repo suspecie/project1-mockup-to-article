@@ -9,4 +9,8 @@ Projeto 1 - Mockup to article
 
 ![alt text](udacityFeedback/UdacityCodeReview2.png)
 
+# Projeto Final
+
+![alt text](udacityFeedback/projetoFinal.png)
+
 
