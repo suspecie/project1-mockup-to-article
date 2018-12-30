@@ -5,7 +5,8 @@ Projeto 1 - Mockup to article
 
 ![alt text](udacityFeedback/UdacityReviews.png)
 
+![alt text](udacityFeedback/UdacityCodeReview1.png)
+
 ![alt text](udacityFeedback/UdacityCodeReview2.png)
 
-![alt text](udacityFeedback/UdacityCodeReview1.png)
 
